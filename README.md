@@ -27,18 +27,12 @@ This is a simple React Native Expo app that demonstrates how to integrate eSewa 
    ```
    yarn install
    ```
-   or
-   ```
-   npm install
-   ```
+ 
 3. Start the development server:
    ```
-   yarn start
+   npx expo start
    ```
-   or
-   ```
-   npm start
-   ```
+  
 
 ## eSewa Integration
 
